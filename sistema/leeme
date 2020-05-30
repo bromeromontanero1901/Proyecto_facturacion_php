@@ -1,1 +1,4 @@
-
+Descomprimir el archivo ejemplo_facturacion.rar.
+Dentro del archivo se encuentra el script de la base de datos que debe ser importado en mysql, y los archivos del sistema. 
+Estos archivos, asi como los archivos conexion.php e index php que se encuentran en la ruta anterior deben ser copiados en el entorno de
+trabajo de php(en mi caso en la carpeta htdocs con en nombre ejemplo_facturacion del motor web xampp).
